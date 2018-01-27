@@ -1,5 +1,7 @@
 # Neural-Network-Digit-Recognition
 Source code and training data for recognizing written digits
+The olcConsoleGameEngine.h created by javidx9 is required for this to work:
+https://www.youtube.com/watch?v=u5BhrA8ED0o
 
 The first line in the training data is the amount of uninterupted iterations the neural network should run for
 The second line is the layout of the neural network
